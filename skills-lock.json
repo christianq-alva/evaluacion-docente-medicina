@@ -1,6 +1,18 @@
 {
   "version": 1,
   "skills": {
+    "caveman": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/caveman/SKILL.md",
+      "computedHash": "b4bb6fe3bf3da222993ca0aee5e7c6f5368b182dd30ce1172e8f8e3280eb7052"
+    },
+    "react-best-practices": {
+      "source": "0xbigboss/claude-code",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/react-best-practices/SKILL.md",
+      "computedHash": "aee15f49f1782b4602ece026533564db85d7c20a1efb1f79b028aa21da3f177a"
+    },
     "supabase": {
       "source": "supabase/agent-skills",
       "sourceType": "github",
@@ -18,6 +30,12 @@
       "sourceType": "github",
       "skillPath": ".claude/skills/systematic-debugging/SKILL.md",
       "computedHash": "d9e852d2e11842560f702a91903b403ba31cabc2e39face71d42fb65e5dbf3f5"
+    },
+    "typescript-best-practices": {
+      "source": "0xbigboss/claude-code",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/typescript-best-practices/SKILL.md",
+      "computedHash": "ead45ba0d67c2464c85aa1a46c76354e38153c9377968a36e836a771c0b99dbd"
     }
   }
 }
